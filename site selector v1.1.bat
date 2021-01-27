@@ -4,7 +4,7 @@ title Site Selector by Alexander Miota
 :top
 echo ***************************************************************
 echo.
-echo Site Selector v0.5
+echo Site Selector v1.1
 echo.
 echo ***************************************************************
 echo.
