@@ -1,6 +1,6 @@
 @echo off
 color 1f
-title Site Selector by Alexander Miota
+title Site Selector by Alexander
 :top
 echo ***************************************************************
 echo.
