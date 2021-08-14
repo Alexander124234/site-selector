@@ -88,7 +88,7 @@ if %udefine%==e goto exit
 cls
 echo ***************************************************************
 echo.
-echo Thank You for using Site Selector by Alexander Miota
+echo Thank You for using Site Selector by Alexander
 echo.
 echo ***************************************************************
 pause
