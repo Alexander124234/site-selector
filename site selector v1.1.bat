@@ -74,7 +74,7 @@ if %udefine%==e goto exit
 cls
 echo ***************************************************************
 echo.
-echo Thank You for using Site Selector by Alexander Miota
+echo Thank You for using Site Selector by Alexander
 echo.
 echo ***************************************************************
 echo Type [e] to exit or [b] to go back and select another site.
